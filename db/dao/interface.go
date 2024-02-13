@@ -1,8 +1,6 @@
 package dao
 
-import (
-	"wxcloudrun-golang/db/model"
-)
+import "github.com/l1huanyu/nomcar/db/model"
 
 // CounterInterface 计数器数据模型接口
 type CounterInterface interface {

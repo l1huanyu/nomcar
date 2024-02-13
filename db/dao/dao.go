@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"wxcloudrun-golang/db"
-	"wxcloudrun-golang/db/model"
+	"github.com/l1huanyu/nomcar/db"
+	"github.com/l1huanyu/nomcar/db/model"
 )
 
 const tableName = "Counters"
